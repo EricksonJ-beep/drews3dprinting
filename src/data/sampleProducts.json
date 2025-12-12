@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Flexi Fidget Dragon",
+    "slug": "flexi-fidget-dragon",
+    "description": "Articulated dragon fidget toy with smooth movement.",
+    "price": 12.99,
+    "category": "Toys/Fidgets",
+    "tags": ["fidget", "toy", "dragon"],
+    "imageUrl": "/images/placeholder.svg",
+    "stock": 15,
+    "isFeatured": true
+  },
+  {
+    "name": "Modular Desk Organizer",
+    "slug": "modular-desk-organizer",
+    "description": "Stackable organizer with customizable trays for stationery.",
+    "price": 14.99,
+    "category": "Office Supplies",
+    "tags": ["desk", "organizer", "modular"],
+    "imageUrl": "/images/placeholder.svg",
+    "stock": 32,
+    "isFeatured": true
+  },
+  {
+    "name": "Camera Lens Cap Holder",
+    "slug": "camera-lens-cap-holder",
+    "description": "Clip-on holder to keep your lens cap handy.",
+    "price": 9.99,
+    "category": "Hobbies",
+    "tags": ["camera", "photo", "clip"],
+    "imageUrl": "/images/placeholder.svg",
+    "stock": 20,
+    "isFeatured": false
+  },
+  {
+    "name": "Birthday Cake Topper - Custom Name",
+    "slug": "birthday-cake-topper-custom",
+    "description": "Personalized cake topper with your chosen name.",
+    "price": 8.99,
+    "category": "Birthday Ideas",
+    "tags": ["cake", "topper", "custom"],
+    "imageUrl": "/images/placeholder.svg",
+    "stock": 50,
+    "isFeatured": false
+  },
+  {
+    "name": "Holiday Ornament - Snowflake",
+    "slug": "holiday-ornament-snowflake",
+    "description": "Detailed snowflake ornament for seasonal decor.",
+    "price": 6.99,
+    "category": "Holidays",
+    "tags": ["holiday", "ornament", "snowflake"],
+    "imageUrl": "/images/placeholder.svg",
+    "stock": 100,
+    "isFeatured": true
+  }
+]
